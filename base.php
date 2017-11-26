@@ -30,4 +30,16 @@ function importEssential(){ ?>
   </head>
 
 <?php
+}
+
+function drawHeader(){ ?>
+  <div class="header">
+  </div>
+  <?php
+}
+
+function drawFooter(){ ?>
+  <div class="footer">
+  </div>
+  <?php
 } ?>

@@ -1,0 +1,23 @@
+/* Style du footer */
+.footer{
+  width:100%;
+  height:100px;
+  background-color: #be0000;
+}
+
+
+
+
+/* Style du header */
+
+.header{
+  position:fixed;
+  top:0;
+  width:100%;
+  height: 80px;
+  background-color: #333333;
+}
+
+body{
+  margin-top:100px;
+}
